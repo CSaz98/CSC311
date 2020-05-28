@@ -5,7 +5,7 @@ It is named after David Huffman, who invented the technique as a graduate studen
 Both JPEG and MP3 encoders use Huffman coding as part of their algorithms.
 
 Usage:
-Encoding: this program can compress/encode a text file conatining a decoded message.
+Encoding: this program can compress/encode a text file containing a decoded message.
 The compressed/encoded file will be opened and saved as a text file.
 
 Decoding: this program can decompress/decode a text file.
@@ -25,7 +25,7 @@ all other texts remain the same.
 The Huffman tree as a text (Tree Code):
 We start from the root, all 0s are internal nodes and all 1s are leaf nodes followed by a character.
 
-Exmple:
+Example:
 
 Tree:
         7
